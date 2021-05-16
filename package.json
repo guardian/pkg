@@ -36,7 +36,7 @@
     "prettier": "^2.2.1",
     "read-pkg-up": "^7.0.1",
     "sade": "^1.7.4",
-    "sort-keys": "^4.2.0",
+    "sort-keys": "^5.0.0",
     "sort-package-json": "1.48.1"
   },
   "devDependencies": {
